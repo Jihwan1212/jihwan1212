@@ -18,5 +18,7 @@ I'm Jihwan Yang, a developer who started programming at SSAFY in 2025, eager to 
 </p><!--
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/Jihwan1212" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="www.linkedin.com/in/jihwan-yang-5a06032bb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<p><a href="https://github.com/Jihwan1212" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="www.linkedin.com/in/jihwan-yang-5a06032bb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+------------
