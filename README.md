@@ -3,7 +3,7 @@
 <p>Welcome to my page! <br/>
 <br/> 
 I'm Jihwan Yang, Full-Stack Developer, Finance & AI Enthusiast 🔥 <br/>
-Founder of "Dartify" - AI powered platform that revolutionizes financial analysis.📈 <br/>
+Founder of "Dartify" - AI powered platform that revolutionizes financial analysis 📈 <br/>
 </p>
 
 <h3>Things I code with</h3>
